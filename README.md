@@ -33,11 +33,11 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rubyaj24/musprint-cet.git
+   git clone https://github.com/rubyaj24/musprint-template.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd musprint-cet
+   cd musprint-template
    ```
 3. Install dependencies:
    ```bash
