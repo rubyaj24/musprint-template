@@ -27,7 +27,7 @@ This project integrates Google Sheets to enable real-time data updates. The inte
 ### Prerequisites
 Ensure you have the following installed:
 - Node.js
-- npm or Yarn package manager
+- npm
 - Google sheets
 
 ### Installation
