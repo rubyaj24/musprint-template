@@ -48,7 +48,7 @@ Run the developmental server
    ```bash
    npm run dev
    ```
-Open your browser and navigate to http://localhost:3000.
+Open your browser and navigate to http://localhost:5173.
 
 ## Contributing
 1. Fork the repository
