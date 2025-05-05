@@ -59,7 +59,6 @@ Open your browser and navigate to http://localhost:3000.
 
 ## Tech Stack
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="javascript logo"  />
 
 ## Contact
