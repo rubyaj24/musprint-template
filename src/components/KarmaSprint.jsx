@@ -61,10 +61,9 @@ const KarmaSprint = () => {
         return () => clearInterval(interval);
         }, []);
 
-    // Sort users by score in descending order
+    // Descending sort.
     const sortedUsers = [...userData].sort((a, b) => b.points - a.points);
 
-    // Update loading state to use new Loader component
     return (
         <div className="min-h-screen w-full flex justify-center p-8 bg-[#0f0f0f] text-white relative overflow-hidden">
             <div className="w-full max-w-[1200px] flex flex-col gap-8 z-10">
