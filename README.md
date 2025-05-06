@@ -58,8 +58,11 @@ Open your browser and navigate to http://localhost:5173.
 5. Open a Pull Request
 
 ## Tech Stack
+<div>
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="30" alt="tailwindcss logo"  />
+</div>
 
 ## Contact
 - Email : [amaljithmvinod@gmail.com](mailto:amaljithmvinod@gmail.com)
