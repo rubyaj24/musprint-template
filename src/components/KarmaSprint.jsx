@@ -4,6 +4,7 @@ import rank2 from "../assets/ranks/rank_2.svg";
 import rank3 from "../assets/ranks/rank_3.svg";
 import rank4 from "../assets/ranks/rank_4.svg";
 import { useEffect, useState } from "react";
+import Guide from "./Guide";
 
 const KarmaSprint = () => {
     const [userData, setUserData] = useState([]);
@@ -68,6 +69,7 @@ const KarmaSprint = () => {
         <div className="min-h-screen w-full flex justify-center p-8 bg-[#0f0f0f] text-white relative overflow-hidden">
             <div className="w-full max-w-[1200px] flex flex-col gap-8 z-10">
                 <h1 className="text-4xl font-bold text-center">µSprint Leaderboard</h1>
+                <Guide />
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                     {sortedUsers.length > 0 ? (
                         sortedUsers.slice(0,30).map((data, index) => (
